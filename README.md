@@ -5,3 +5,5 @@ attendence management
 <br>
 marks
 <br>
+exam
+<br>
